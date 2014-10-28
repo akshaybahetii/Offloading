@@ -1,0 +1,1 @@
+java -Djava.library.path=/home/nepolix/WorkStation/source/Taz/Server/asset/lib-linux -cp /home/nepolix/WorkStation/source/Taz/Server/asset/lib-linux/opencv-249-linux.jar:. com.server.face.RunFace

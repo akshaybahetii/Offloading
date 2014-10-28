@@ -1,0 +1,1 @@
+java -Djava.library.path=..\asset\lib-win\ -classpath ..\asset\lib-win\opencv-248-win.jar;. com.server.face.RunFace
